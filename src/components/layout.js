@@ -7,7 +7,7 @@
 
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
-import GlobalCSS from "@src/components/GlobalCSS"
+import GlobalCSS from "src/components/GlobalCSS"
 
 const Layout = ({ children }) => (
   <StaticQuery

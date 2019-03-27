@@ -14,7 +14,7 @@ const GlobalCSS = () => {
         body {
           margin: 0;
           overflow: ${menuState ? "hidden" : "visible"};
-          background: red;
+          background: #ba272d;
         }
         * {
           font-weight: normal;
